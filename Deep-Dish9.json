@@ -1,10 +1,10 @@
 {
-  "name": "gothgold",
-  "description": "a gothic gold theme",
+  "name": "Deep-Dish 9",
+  "description": "Wanna see something spacey!?",
   "spec": "2",
   "authors": [
     {
-      "name": "Slick787",
+      "name": "PTG",
       "id": "706241165090881548"
     }
   ],
@@ -18,7 +18,7 @@
       "#000000"
     ],
     "TEXT_NORMAL": [
-      "#d4af37",
+      "#d1d1d1",
       "#000000"
     ],
     "TEXT_MUTED": [
@@ -26,7 +26,7 @@
       "#000000"
     ],
     "TEXT_LINK": [
-      "#d4af37",
+      "#f8e080",
       "#000000"
     ],
     "INTERACTIVE_NORMAL": [
@@ -46,19 +46,19 @@
       "#000000"
     ],
     "BACKGROUND_PRIMARY": [
-      "#000000",
+      "#240f40",
       "#000000"
     ],
     "BACKGROUND_SECONDARY": [
-      "#000000",
+      "#200d38",
       "#000000"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#000000",
+      "#200d38",
       "#000000"
     ],
     "BACKGROUND_TERTIARY": [
-      "#000000",
+      "#130821",
       "#000000"
     ],
     "BACKGROUND_ACCENT": [
@@ -176,7 +176,7 @@
   },
   "background": {
     "blur": "0.5",
-    "url": "https://i.imgur.com/aAVKSNT.png",
+    "url": "https://i.imgur.com/n7gWBlO.png",
     "alpha": "3.0"
   }
 }
