@@ -18,11 +18,11 @@
       "#000000"
     ],
     "TEXT_NORMAL": [
-      "#d1d1d1",
+      "#fbfbfb",
       "#000000"
     ],
     "TEXT_MUTED": [
-      "#d1d1d1",
+      "#b6b6b6",
       "#000000"
     ],
     "TEXT_LINK": [
@@ -62,7 +62,7 @@
       "#000000"
     ],
     "BACKGROUND_ACCENT": [
-      "#000000",
+      "#301454",
       "#000000"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
@@ -74,7 +74,7 @@
       "#000000"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#000000",
+      "#FFFFFF",
       "#000000"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
@@ -94,15 +94,15 @@
       "#000000"
     ],
     "BG_BACKDROP": [
-      "#000000",
+      "#200d38",
       "#000000"
     ],
     "BG_BASE_PRIMARY": [
-      "#000000",
+      "#240f40",
       "#000000"
     ],
     "BG_BASE_SECONDARY": [
-      "#000000",
+      "#200d38",
       "#000000"
     ],
     "CARD_PRIMARY_BG": [
@@ -122,8 +122,12 @@
       "#000000"
     ],
     "TEXT_DANGER": [
-      "#d1d1d1",
+      "#f23f43",
       "#000000"
+    ],
+     "KEYBOARD": [
+       "#3f1970",
+       "#000000"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
       "#000000",
