@@ -25,10 +25,10 @@
     "#322833"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-    "#26233a"
+    "#150a28"
     ],
     "BACKGROUND_MODIFIER_ACCENT_2": [
-    "#26233a"
+    "#150a28"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
     "#1f1d2e"
@@ -43,10 +43,10 @@
     "#31213e"
     ],
     "BACKGROUND_SECONDARY": [
-    "#191724"
+    "#280f48"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-    "#412e52"
+    "#110821"
     ],
     "BACKGROUND_TERTIARY": [
     "#291c35"
@@ -97,7 +97,7 @@
     "#6e6a86"
     ],
     "INTERACTIVE_NORMAL": [
-    "#c4a7e7"
+    "#4a1f76"
     ],
     "MENTION_FOREGROUND": [
     "#eb6f92"
@@ -121,7 +121,7 @@
     "#F4EAE5"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-    "#26233a"
+    "#150a28"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
     "#21202e"
@@ -155,15 +155,15 @@
     "PLUM_10": "#c1bfd1",
     "PLUM_11": "#191724",
     "PLUM_13": "#191724",
-    "PLUM_15": "#26233a",
+    "PLUM_15": "#150a28",
     "PLUM_16": "#a79ab3",
     "PLUM_17": "#31213e",
-    "PLUM_18": "#26233a",
+    "PLUM_18": "#150a28",
     "PLUM_19": "#908caa",
     "PLUM_20": "#4b385a",
     "PLUM_21": "#191724",
-    "PLUM_22": "#26233a",
-    "PLUM_24": "#26233a",
+    "PLUM_22": "#150a28",
+    "PLUM_24": "#150a28",
     "PLUM_25": "#9ccfd8",
     "PLUM_3": "#e0def4",
     "PLUM_4": "#31748f50",
@@ -174,7 +174,7 @@
     "PRIMARY_300": "#735682",
     "PRIMARY_360": "#7C6766",    
     "PRIMARY_400": "#735682",
-    "PRIMARY_460": "#26233a",
+    "PRIMARY_460": "#150a28",
     "PRIMARY_500": "#E3C5C5",
     "PRIMARY_600": "#281f2b",
     "PRIMARY_630": "#231b27",
@@ -209,8 +209,8 @@
     "GREEN_860": "#9ccfd8",
     "GREEN_900": "#9ccfd8",
     "GUILD_BOOSTING_PINK": "#eb6f92",   
-    "GUILD_BOOSTING_PURPLE": "#c4a7e7",
-    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#c4a7e7",
+    "GUILD_BOOSTING_PURPLE": "#4a1f76",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#4a1f76",
     "RED_260": "#eb6f92",
     "RED_300": "#eb6f92",
     "RED_330": "#eb6f92",
