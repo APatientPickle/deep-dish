@@ -66,31 +66,31 @@
       "#000000"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#000000",
+      "#240f40",
       "#000000"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#000000",
+      "#200d38",
       "#000000"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#FFFFFF",
+      "#301454",
       "#000000"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#000000",
+      "#461c75",
       "#000000"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#000000",
+      "#3a1563",
       "#000000"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#000000",
+      "#3e1475",
       "#000000"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#000000",
+      "#301454",
       "#000000"
     ],
     "BG_BACKDROP": [
@@ -114,11 +114,7 @@
       "#000000"
     ],
     "CHAT_BACKGROUND": [
-      "#3f1970",
-      "#000000"
-    ],
-    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-      "#d1d1d1",
+      "#471c80",
       "#000000"
     ],
     "TEXT_DANGER": [
@@ -130,15 +126,15 @@
        "#000000"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#000000",
+      "#451880",
       "#000000"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#000000",
+      "#451880",
       "#000000"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
-      "#000000",
+      "#200d38",
       "#000000"
     ]
   },
