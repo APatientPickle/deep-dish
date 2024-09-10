@@ -1,29 +1,4 @@
-{
-    "name": "OrchidLove",
-    "description": "A theme made by Vodka Martini",
-    "authors": [
-        {
-            "name": "Vodka Martini",
-            "id": "1068030255455015013"
-        }
-    ],
-  "spec": 2,
-  "semanticColors": {
-    "ANDROID_RIPPLE": [
-    "#eb6f9250"
-    ],
-    "BACKGROUND_ACCENT": [
-    "#8038f0"
-    ],
-    "BACKGROUND_MESSAGE_HOVER": [
-    "#eb6f9250"
-    ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-    "#281f2b"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-    "#322833"
-    ],
+  ],
     "BACKGROUND_MODIFIER_ACCENT": [
     "#231142"
     ],
@@ -58,13 +33,13 @@
     "#5038a0"
     ],
     "BORDER_FAINT": [
-    "#a79ab3"
+    "#b084d9"
     ],
     "BORDER_STRONG": [
-    "#a79ab3"
+    "#b084d9"
     ],      
     "BORDER_SUBTLE": [
-    "#a79ab3"
+    "#b084d9"
     ],
     "CARD_SECONDARY_BG": [
     "#190c1d"
@@ -149,7 +124,7 @@
     "BLUE_345": "#a79ab3",
     "BRAND_260": "#D2B7AA",
     "BRAND_360": "#F4EAE5",
-    "BRAND_500": "#74646d",
+    "BRAND_500": "#5038a0",
     "BRAND_560": "#735682",
     "PLUM_1": "#e0def4",
     "PLUM_10": "#c1bfd1",
@@ -176,9 +151,9 @@
     "PRIMARY_400": "#735682",
     "PRIMARY_460": "#150a28",
     "PRIMARY_500": "#E3C5C5",
-    "PRIMARY_600": "#281f2b",
+    "PRIMARY_600": "#5038a0",
     "PRIMARY_630": "#231b27",
-    "PRIMARY_645": "#74646d",
+    "PRIMARY_645": "#5038a0",
     "PRIMARY_660": "#231b27",
     "PRIMARY_700": "#312438",
     "PRIMARY_800": "#231b27",
@@ -191,7 +166,7 @@
     "GREEN_300": "#9ccfd8",
     "GREEN_330": "#9ccfd8",
     "GREEN_345": "#9ccfd8",
-    "GREEN_360": "#74646d",
+    "GREEN_360": "#5038a0",
     "GREEN_400": "#9ccfd8",
     "GREEN_430": "#9ccfd8",
     "GREEN_460": "#9ccfd8",
