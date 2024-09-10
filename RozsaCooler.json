@@ -12,7 +12,7 @@
          "#9850f8"
       ],
       "HEADER_SECONDARY":[
-         "#e1a9cf"
+         "#8038f0"
       ],
       "TEXT_NORMAL":[
          "#d8b8f8"
@@ -253,7 +253,9 @@
       "YELLOW_900":"#f6c177"
    },
    "background":{
+      "blur":0.0
       "url":"https://i.imgur.com/M6e7uQM.jpeg",
+      "alpha":0.0
    },
    "plus":{
       "version":"0",
