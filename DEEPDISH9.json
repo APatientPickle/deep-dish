@@ -150,8 +150,9 @@
     "CHAT_GREY": "#0d0212"
   },
   "background": {
-    "blur": 0.0,
-    "url": "https://i.imgur.com/M6e7uQM.jpeg",
-    "alpha": 0.0
+    "blur": "0.5",
+    "url": "https://i.imgur.com/n7gWBlO.png",
+    "alpha": "3.0"
   }
 }
+
