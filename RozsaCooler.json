@@ -1,6 +1,6 @@
 {
    "name":"DEEP-DISH 9",
-   "description":"Gulp!",
+   "description":"Erm... read the title????",
    "authors":[
       {
          "name":"MrSigma",
@@ -253,9 +253,7 @@
       "YELLOW_900":"#f6c177"
    },
    "background":{
-      "blur":0.0
       "url":"https://i.imgur.com/M6e7uQM.jpeg",
-      "alpha":0.0
    },
    "plus":{
       "version":"0",
