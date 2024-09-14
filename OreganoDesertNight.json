@@ -42,7 +42,7 @@
       "#060607"
     ],
     "INTERACTIVE_MUTED": [
-      "#9ca560",
+      "#1070d0",
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
@@ -62,7 +62,7 @@
       "#e3e5e8"
     ],
     "BACKGROUND_ACCENT": [
-      "#9ca560",
+      "#1070d0",
       "#747f8d"
     ],
     "BACKGROUND_FLOATING": [
@@ -126,7 +126,7 @@
       "#6a7480"
     ],
     "TEXT_LINK": [
-      "#9ca560",
+      "#1070d0",
       "#000000"
     ]
   },
@@ -143,7 +143,7 @@
     "PRIMARY_DARK_700": "transparent",
     "PRIMARY_DARK_800": "#06101d",
     "PRIMARY_DARK_900": "#090909",
-    "BRAND_NEW": "#9ca560"
+    "BRAND_NEW": "#1070d0"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#071423"
